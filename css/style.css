@@ -50,3 +50,21 @@ h1, nav a {
   font-display: swap;
 }
 
+/* society description */
+.society-opening {
+  padding-top: 600px;
+}
+
+.society-title {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
+  font-size: 25px;
+  border-top: #fff solid 2px;
+  border-bottom: #fff solid 2px;
+  position: absolute;
+  z-index: 1;
+  top: 950px;
+  padding: 20px 30px;
+}
+
