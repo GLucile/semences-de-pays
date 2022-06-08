@@ -68,3 +68,21 @@ h1, nav a {
   padding: 20px 30px;
 }
 
+/* society text presentation chapter */
+.society-presentation {
+  background-color: rgb(250, 233, 186);
+}
+
+.presentation-text {
+  font-size: 25px;
+  line-height: 48px;
+  text-align: justify;
+  padding: 80px 35px 50px;
+  margin: 0;
+}
+
+.seeds-group {
+  width: 70%;
+  margin: 0 55px 70px;
+}
+
