@@ -55,6 +55,10 @@ h1, nav a {
   padding-top: 600px;
 }
 
+.society-opening figure {
+  margin: 0;
+}
+
 .society-title {
   color: #fff;
   background-color: rgba(0, 0, 0, 0.25);
@@ -67,6 +71,7 @@ h1, nav a {
   top: 950px;
   padding: 20px 30px;
 }
+
 
 /* society text presentation chapter */
 .society-presentation {
