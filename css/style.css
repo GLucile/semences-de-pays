@@ -213,3 +213,30 @@ h2 {
   bottom: 80px;
 }
 
+.opening-places-shop {
+  margin-top: 80px;
+}
+
+/* shop places */
+.places-shop {
+  background-color: rgb(226, 132, 73);
+  padding: 35px 20px; 
+  margin: 0;
+}
+
+.ch-map {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  width: 90%;
+  display: block;
+  margin: auto;
+}
+
+.shops-adress {
+  color: #fff;
+  font-size: 26px;
+  line-height: 40px;
+  margin: 35px 10px 26px 10px;
+}
+
