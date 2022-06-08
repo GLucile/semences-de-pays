@@ -264,3 +264,24 @@ h2 {
   bottom: 80px;
 }
 
+/* footer */
+footer {
+  background-color: rgba(200, 205, 160);
+  padding-top: 10px;
+  position: relative;
+}
+
+.contact-list {
+  color: #fff;
+  font-size: 30px;
+  line-height: 45px;
+  padding: 30px 30px 210px ;
+  margin: 0;
+}
+
+.bottom-garden {
+  position: absolute;
+  z-index: 1;
+  bottom: 0px;
+  overflow: hidden;
+}
