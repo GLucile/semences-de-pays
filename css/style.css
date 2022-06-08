@@ -35,12 +35,15 @@ nav a {
   color: #fff;
   text-decoration: none;
   font-size: 23px;
-  padding: 10px;
   border-radius: 7px;
 }
 
-.semences-link {
+.semence-link {
   padding: 10px 25px;
+}
+
+.points-link {
+  padding: 10px;
 }
 
 .contact-link {
