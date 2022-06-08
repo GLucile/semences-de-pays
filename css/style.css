@@ -240,3 +240,27 @@ h2 {
   margin: 35px 10px 26px 10px;
 }
 
+/* contact opening chapter */
+.opening-contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.opening-contacts figure {
+  position: relative;
+  margin: 0;
+}
+
+.contacts-title {
+  color: #fff;
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(5px);
+  border-top: #fff solid 2px;
+  border-bottom: #fff solid 2px;
+  padding: 20px 85px;
+  position: absolute;
+  bottom: 80px;
+}
+
