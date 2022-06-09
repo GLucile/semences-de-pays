@@ -53,6 +53,12 @@ nav a {
   padding: 10px 60px;
 }
 
+.menu-link:hover {
+  background-color: #fff;
+  color: rgb(200, 205, 160);
+  transform: scale(1.05);
+}
+
 h1, nav a {
   font-family: 'Cinzel Decorative';
   font-weight: bold;
