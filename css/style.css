@@ -155,14 +155,14 @@ h2 {
   font-size: 36px;
 }
 
-.bleuet-seed-line,
+.bean-seed-line,
 .pumpkin-seed-line,
 .bleuet-petal-line {
   position: absolute;
   z-index: -1;
 }
 
-.bleuet-seed-line {
+.bean-seed-line {
   width: 20%;
   opacity: 20%;
   transform: rotate(30deg);
