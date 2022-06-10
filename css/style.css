@@ -15,11 +15,11 @@ body {
 }
 
 .logo {
-  width: 75%;
+  width: 70%;
   background-color: rgba(0, 0, 0, 0.25);
   backdrop-filter: blur(2px);
   box-shadow: 0 0 10px 8px rgba(0, 0, 0, 0.25);
-  margin: 45px 40px 0;
+  margin: 45px 25px 0;
   position: absolute;
   z-index: 1;
 }
@@ -84,7 +84,7 @@ h1, nav a {
   border-bottom: #fff solid 2px;
   position: absolute;
   z-index: 1;
-  top: 950px;
+  top: 1010px;
   padding: 20px 30px;
 }
 
@@ -98,8 +98,8 @@ h1, nav a {
   font-size: 25px;
   line-height: 48px;
   text-align: justify;
-  padding: 80px 35px 50px;
-  margin: 0;
+  padding: 70px 20px 50px;
+  margin: 0 70px 0 10px;
 }
 
 .seeds-group {
@@ -143,16 +143,24 @@ img {
 .mockup-solo {
   width: 40%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 10px 0 90px;
   margin-top: 80px;
+}
+
+.mockup-trio {
+  width: 70%;
+  margin: 0 30px;
 }
 
 h2 {
   font-family: 'Amatic SC';
   font-weight: bold;
-  text-align: center;
   font-size: 36px;
+  margin: 30px 55px 0 55px;
+}
+
+.borlotto-title {
+  margin: 30px 30px 0 30px;
 }
 
 .bean-seed-line,
@@ -191,7 +199,7 @@ h2 {
   font-display: swap;
   font-size: 36px;
   text-align: center;
-  margin: 20px 20px 40px;
+  margin: 20px 80px 40px 30px;
 }
 
 .shop-path {
@@ -245,9 +253,9 @@ h2 {
   background-color: #fff;
   padding: 10px;
   border-radius: 10px;
-  width: 90%;
+  width: 75%;
   display: block;
-  margin: auto;
+  margin: 0 30px 0 5px;
 }
 
 .shops-adress {
@@ -269,7 +277,7 @@ footer h1 {
   text-align: center;
   border-top: #fff solid 2px;
   border-bottom: #fff solid 2px;
-  padding: 20px 0;
+  padding: 20px 80px 20px 20px;
 }
 
 .contact-list {
